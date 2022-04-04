@@ -17,7 +17,7 @@
         tools:ignore="HardcodedDebugMode"> <!-- art ti agent requires debuggable -->
 
         <activity
-            android:name=".TimedWorkWorkerThreadActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
